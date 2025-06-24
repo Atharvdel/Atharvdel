@@ -9,8 +9,8 @@ Computer and Communication Engineering student at MIT Manipal, passionate about 
 ## Skills
 
 **Languages:** Java C++ Python HTML5 CSS3 JavaScript SQL  
-**Frameworks & Tools:** Spring Boot Flask Thymeleaf MySQL MongoDB Git GitHub libGDX Box2D LWJGL3[1]  
-**Specializations:** Game Development, GPU-based Image Processing, Interactive UI Development, Database Design[1][3][2]
+**Frameworks & Tools:** Spring Boot Flask Thymeleaf MySQL MongoDB Git GitHub 
+**Specializations:** Interactive UI Development, Database Design
 
 ## Socials
 
