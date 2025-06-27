@@ -10,7 +10,7 @@ Computer and Communication Engineering student at MIT Manipal, passionate about 
 
 **Languages:** Java, C++, Python, SQL, HTML, CSS, JavaScript
 
-**Frameworks:** Spring Boot, Flask, Thymeleaf, JavaFX
+**Frameworks:** Spring Boot, Flask, Thymeleaf, React.js, Node.js, JavaFX
 
 **Tools:** VS Code, IntelliJ, Git, GitHub
 
