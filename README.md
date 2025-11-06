@@ -8,15 +8,15 @@ Computer and Communication Engineering student at MIT Manipal, passionate about 
 
 ## Skills
 
-**Languages:** Java, C++, Python, SQL, HTML, CSS, JavaScript
+**Languages:** Java, C/C++, Python, SQL, HTML, CSS, JavaScript
 
-**Frameworks:** Spring Boot, Flask, Thymeleaf, React.js, Node.js, JavaFX
+**Frameworks:** Spring Boot, Flask, Thymeleaf, React.js, Node.js
 
 **Tools:** VS Code, IntelliJ, Git, GitHub
 
-**Databases:** MySQL, MongoDB
+**Databases:** MySQL, MongoDB, PostgreSQL
 
-**Specializations:** Full-Stack Development, AI/ML
+**Specializations:** Full-Stack Development
 
 ## Socials
 
